@@ -1,0 +1,8 @@
+#container{
+    border: 1px solid blue;
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+    padding: 3%;
+    font-family: 'Roboto', sans-serif;
+}
